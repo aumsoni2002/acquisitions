@@ -19,3 +19,49 @@
 {"level":"info","message":"User meetsoni123@gmail.com created successfully","service":"acquisitions-api"}
 {"level":"info","message":"User registered successfully: meetsoni123@gmail.com","service":"acquisitions-api"}
 {"level":"info","message":"::1 - john [03/Sep/2026:20:59:55 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 106 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User meetsoni123@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: meetsoni123@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - john [17/Sep/2026:21:39:35 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User meetsoni123@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: meetsoni123@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - john [17/Sep/2026:21:39:51 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - john [17/Sep/2026:21:40:06 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - john [17/Sep/2026:21:40:20 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User krisharanpara2002@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: krisharanpara2002@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - john [17/Sep/2026:21:40:51 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 113 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User krisharanpara2002@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: krisharanpara2002@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - john [17/Sep/2026:21:41:08 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 125 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - john [17/Sep/2026:21:41:14 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - john [17/Sep/2026:22:06:46 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - john [17/Sep/2026:22:07:01 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - john [17/Sep/2026:22:07:02 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - john [17/Sep/2026:22:07:03 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - john [17/Sep/2026:22:07:55 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - john [17/Sep/2026:22:07:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - john [17/Sep/2026:22:08:00 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:09:58 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:10:09 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:10:11 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:17:36 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:17:40 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:17:41 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:17:42 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:17:42 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:17:43 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/2.5.0"}
+{"level":"info","message":"::1 - - [17/Sep/2026:22:17:44 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/2.5.0\"","service":"acquisitions-api"}
