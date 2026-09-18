@@ -9,8 +9,6 @@ const aj = arcjet({
       allow: [
         'CATEGORY:SEARCH_ENGINE', 
         'CATEGORY:PREVIEW',
-        'POSTMAN',
-        'THUNDERCLIENT',
       ],
     }),
     slidingWindow({
